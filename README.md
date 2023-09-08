@@ -67,30 +67,30 @@ endmodule
 
 ## Truthtable
 ### FULLSUBTRACTOR
-![OP](TT_FULL.png)
+![OP](./TT_FULL.png)
 
 ### HALFSUBTRACTOR
 
-![OP](TT_HALF.png)
+![OP](./TT_HALF.png)
 
 
 
 ##  RTL realization
 ### FULLSUBTRACTOR
-![op](fullsubtractor_rtl.png)
+![op](./fullsubtractor_rtl.png)
 
 ### HALFSUBTRACTOR
 
-![op](halfsubtractor_rtl.png)
+![op](./halfsubtractor_rtl.png)
 
 
 ## Timing diagram 
 ### FULLSUBTRACTOR
-![op](fullsubtractor_wf.png)
+![op](./fullsubtractor_wf.png)
 
 ### HALFSUBTRACTOR
 
-![op](halfsubtractor_rtl.png)
+![op](./halfsubtractor_Wf.png)
 
 ## Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
