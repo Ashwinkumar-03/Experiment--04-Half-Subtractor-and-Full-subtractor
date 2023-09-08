@@ -67,31 +67,32 @@ endmodule
 
 ## Truthtable
 ### FULLSUBTRACTOR
-![OP](./TT_FULL.png)
+![TT_FULL](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/b61b4b97-06af-43f4-9adc-606763629835)
 
 ### HALFSUBTRACTOR
 
-![OP](./TT_HALF.png)
+![TT_HALF](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/1a822ddb-e2e4-46cf-be6d-1397905586f8)
 
 
 
 ##  RTL realization
 ### FULLSUBTRACTOR
-![op](./fullsubtractor_rtl.png)
+![fullsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/c6afcd88-9848-41b4-939b-229a3ecfec0f)
+
 
 ### HALFSUBTRACTOR
 
-![op](./halfsubtractor_rtl.png)
+![halfsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/5cf3d663-21e0-49b7-aee3-2e40041d64d2)
 
 
 ## Timing diagram 
 
 ### FULLSUBTRACTOR
-![op](./fullsubtractor_wf.png)
+![fullsubtractor_wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/6338d049-6ef3-41be-9d17-ddaebfa08d85)
 
 ### HALFSUBTRACTOR
 
-![op](./halfsubtractor_Wf.png)
+![halfsubtractor_Wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/7df7020f-4814-4ec2-9ca6-50ef18e7da16)
 
 
 ## Result:
