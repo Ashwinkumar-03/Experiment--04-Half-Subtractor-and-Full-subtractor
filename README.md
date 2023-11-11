@@ -27,11 +27,7 @@ A full subtractor is a combinational circuit that performs subtraction involving
 Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 
 ## Procedure
-
-
-
-Write the detailed procedure here 
-
+Connect the supply (+5V) to the circuit Switch ON the main switch If the output is 1, then the led glows.
 
 ## Program:
 /*
@@ -77,22 +73,20 @@ endmodule
 
 ##  RTL realization
 ### FULLSUBTRACTOR
-![fullsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/c6afcd88-9848-41b4-939b-229a3ecfec0f)
-
+![fullsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/5720a7ae-2773-40ce-aa96-e58905ef7733)
 
 ### HALFSUBTRACTOR
-
-![halfsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/5cf3d663-21e0-49b7-aee3-2e40041d64d2)
+![halfsubtractor_rtl](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/bb269eef-47ce-40ee-b031-3aef982b5da3)
 
 
 ## Timing diagram 
 
 ### FULLSUBTRACTOR
-![fullsubtractor_wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/6338d049-6ef3-41be-9d17-ddaebfa08d85)
+![fullsubtractor_wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/00414884-de77-4e3f-a090-4d5ef3dcc83f)
 
 ### HALFSUBTRACTOR
 
-![halfsubtractor_Wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/7df7020f-4814-4ec2-9ca6-50ef18e7da16)
+![halfsubtractor_Wf](https://github.com/Ashwinkumar-03/Experiment--04-Half-Subtractor-and-Full-subtractor/assets/118663725/c8b42fe2-643a-4a35-b0e9-06d28a6b9293)
 
 
 ## Result:
